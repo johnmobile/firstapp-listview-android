@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstDayApp</string>
+    <string name="title_activity_listview_cell">listview_cell</string>
+    <string name="splash_text">Lista de Livros</string>
+</resources>

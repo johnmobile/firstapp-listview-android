@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:src="@mipmap/ic_launcher"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/coverInCell" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:id="@+id/titleInCell"
+        android:textAlignment="viewStart"
+        android:gravity="center"
+        android:layout_height="50dp"
+        android:layout_marginLeft="15dp" />
+</LinearLayout>
