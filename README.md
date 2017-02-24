@@ -17,3 +17,5 @@ Recursos utilizados:
 - BaseAdapter
 
 - Biblioteca <a href="http://square.github.io/picasso/" target="_blank">Picasso</a> para carregamento de imagens.
+
+<img src="http://i.imgur.com/to4FxsT.png" width="400px">
